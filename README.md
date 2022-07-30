@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeswith-noah
-- 👀 I’m interested in creating websites.
+- 👀 I’m currently interested in creating games and game development.
 - 🌱 I’m currently learning how to code in advanced languages.
-- 📫 How to reach me is on discord. zernSUPREME#4637.
+- 📫 Reach my by email! noah.eldarymli@gmail.com
 
 <!---
 codeswith-noah/codeswith-noah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
